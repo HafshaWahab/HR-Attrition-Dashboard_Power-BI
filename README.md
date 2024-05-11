@@ -8,7 +8,7 @@ This analysis encompasses a comprehensive examination of workforce dynamics with
 [View Power BI Dashboard](https://drive.google.com/file/d/1jBumLjqrCU0BSe5LxWXQft-BVH-z6L5d/view?usp=sharing)
 
 ## Goals & KPIs
-In this analysis we aim to analyse the following:
+This analysis aims to analyse the following:
 
 1) The demographic status of the employees such as attrition rate by gender, educational field, age, marital status and work-life balance.
 
